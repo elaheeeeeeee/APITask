@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\datalink\\source\\repos\\APITask Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|c:\\users\\datalink\\source\\repos\\apitask project\\apitask project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|solutionrelative:apitask project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|c:\\users\\datalink\\source\\repos\\apitask project\\apitask project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|solutionrelative:apitask project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|c:\\users\\datalink\\source\\repos\\apitask project\\apitask project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|solutionrelative:apitask project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|c:\\users\\datalink\\source\\repos\\apitask project\\apitask project\\migrations\\20250319134305_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|solutionrelative:apitask project\\migrations\\20250319134305_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|c:\\users\\datalink\\source\\repos\\apitask project\\apitask project\\migrations\\20250320191609_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|solutionrelative:apitask project\\migrations\\20250320191609_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|c:\\users\\datalink\\source\\repos\\apitask project\\apitask project\\models\\validations\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|solutionrelative:apitask project\\models\\validations\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|c:\\users\\datalink\\source\\repos\\apitask project\\apitask project\\apitask project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|solutionrelative:apitask project\\apitask project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|c:\\users\\datalink\\source\\repos\\apitask project\\apitask project\\dto\\mytaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|solutionrelative:apitask project\\dto\\mytaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|c:\\users\\datalink\\source\\repos\\apitask project\\apitask project\\ef\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|solutionrelative:apitask project\\ef\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|c:\\users\\datalink\\source\\repos\\apitask project\\apitask project\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF218C-3C8D-45EC-8BBA-4A0D23B23755}|APITask Project\\APITask Project.csproj|solutionrelative:apitask project\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Models\\MyTask.cs",
+              "RelativeDocumentMoniker": "APITask Project\\Models\\MyTask.cs",
+              "ToolTip": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Models\\MyTask.cs",
+              "RelativeToolTip": "APITask Project\\Models\\MyTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:01:13.176Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "APITask Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "APITask Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:46:14.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Models\\Validations\\DateValidation.cs",
+              "RelativeDocumentMoniker": "APITask Project\\Models\\Validations\\DateValidation.cs",
+              "ToolTip": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Models\\Validations\\DateValidation.cs",
+              "RelativeToolTip": "APITask Project\\Models\\Validations\\DateValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:43:44.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250320191609_2.cs",
+              "DocumentMoniker": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Migrations\\20250320191609_2.cs",
+              "RelativeDocumentMoniker": "APITask Project\\Migrations\\20250320191609_2.cs",
+              "ToolTip": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Migrations\\20250320191609_2.cs",
+              "RelativeToolTip": "APITask Project\\Migrations\\20250320191609_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:16:09.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250319134305_4.cs",
+              "DocumentMoniker": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Migrations\\20250319134305_4.cs",
+              "RelativeDocumentMoniker": "APITask Project\\Migrations\\20250319134305_4.cs",
+              "ToolTip": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Migrations\\20250319134305_4.cs",
+              "RelativeToolTip": "APITask Project\\Migrations\\20250319134305_4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:43:05.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Program.cs",
+              "RelativeDocumentMoniker": "APITask Project\\Program.cs",
+              "ToolTip": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Program.cs",
+              "RelativeToolTip": "APITask Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:09:35.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "APITask Project\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "APITask Project\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:00:55.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APITask Project.csproj",
+              "DocumentMoniker": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\APITask Project.csproj",
+              "RelativeDocumentMoniker": "APITask Project\\APITask Project.csproj",
+              "ToolTip": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\APITask Project.csproj",
+              "RelativeToolTip": "APITask Project\\APITask Project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T18:41:17.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyTaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\DTO\\MyTaskDTO.cs",
+              "RelativeDocumentMoniker": "APITask Project\\DTO\\MyTaskDTO.cs",
+              "ToolTip": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\DTO\\MyTaskDTO.cs",
+              "RelativeToolTip": "APITask Project\\DTO\\MyTaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:43:20.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\EF\\Context.cs",
+              "RelativeDocumentMoniker": "APITask Project\\EF\\Context.cs",
+              "ToolTip": "C:\\Users\\datalink\\source\\repos\\APITask Project\\APITask Project\\EF\\Context.cs",
+              "RelativeToolTip": "APITask Project\\EF\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:54:44.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
